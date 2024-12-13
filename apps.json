@@ -6,6 +6,6 @@
         "download_url": "https://github.com/0developers/StopWatchRemade/releases/download/v0.1.2-beta/stopwatch.apk",
         "app_icon": "https://github.com/0developers/StopWatchRemade/blob/master/icon.png?raw=true" ,
         "package_name" : "com.zerodevs.stopwatch",
-        "package_version" : "1.2"
+        "package_version" : "1.3"
     }
 ]
